@@ -1,2 +1,1 @@
-# Up-and-Running-with-Azure-Databricks
-Up and Running with Azure Databricks
+# Distributed Data Systems with Azure Databricks
