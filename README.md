@@ -68,3 +68,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Alan Bernardo Palacio** is a Data Scientist and Engineer with vast experience in different engineering fields. His focus has been the development and application of state-of-the-art data products and algorithms in several industries. He has worked for companies such as Ernst and Young, Globant, and now holds a Data Engineer position at Ebiquity Media helping the company to create a scalable data pipeline. Alan graduated with a Mechanical Engineering degree from the National University of Tucuman in 2015, participated as the founder in startups, and later on earned a Master's degree from the faculty of Mathematics in the Autonomous University of Barcelona in 2017. Originally from Argentina, he now works and resides in the Netherlands.
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838647216">https://packt.link/free-ebook/9781838647216 </a> </p>
